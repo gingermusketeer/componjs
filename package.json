@@ -1,5 +1,5 @@
 {
-  "name": "component.js",
+  "name": "component",
   "version": "0.0.0",
   "description": "Reloadable components",
   "main": "lib/component.js",
