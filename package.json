@@ -1,0 +1,16 @@
+{
+  "name": "component.js",
+  "version": "0.0.0",
+  "description": "Reloadable components",
+  "main": "lib/component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "component",
+    "reloadable"
+  ],
+  "author": "Max Brosnahan",
+  "license": "MIT"
+}
