@@ -1,12 +1,15 @@
 {
-  "name": "component",
+  "name": "componjs",
   "version": "0.0.0",
   "description": "Reloadable components",
-  "main": "lib/component.js",
+  "main": "lib/compon.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gingermusketeer/componjs.git"
+  },
   "keywords": [
     "component",
     "reloadable"
